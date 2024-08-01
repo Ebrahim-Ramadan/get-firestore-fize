@@ -1,0 +1,3 @@
+serviceAccountCredintials.json
+node_modules/
+.env.local*
